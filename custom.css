@@ -1,0 +1,5 @@
+/* Hide the external link icon when the link wraps an image (e.g. icon links) */
+a > img + svg,
+a > img ~ .external-link {
+  display: none !important;
+}
