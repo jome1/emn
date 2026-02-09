@@ -19,6 +19,6 @@ Check out the latest addition: [](./01-paper.md)
 
 ## About the Authors
 
-**Jonas Meier** — [![GitHub](images/github.svg)](https://github.com/jome1) [![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/jonasmeier-res/?locale=en_US)
+**Jonas Meier** — [![GitHub](images/general/github.svg)](https://github.com/jome1) [![LinkedIn](images/general/linkedin.svg)](https://www.linkedin.com/in/jonasmeier-res/?locale=en_US)
 
-**Julius Meier** — [![GitHub](images/github.svg)](https://github.com/juliusmeier) [![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/julius-meier-res/)
+**Julius Meier** — [![GitHub](images/general/github.svg)](https://github.com/juliusmeier) [![LinkedIn](images/general/linkedin.svg)](https://www.linkedin.com/in/julius-meier-res/)

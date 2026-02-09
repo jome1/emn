@@ -1,0 +1,11 @@
+name: emn
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - pip
+  - pip:
+      - jupyter-book>=2.0.0
+      - jupyterlab_myst # To interactively browser Jupyter content with MyST
+      - ghp-import  # For deploying to GitHub Pages
