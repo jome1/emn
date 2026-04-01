@@ -1,2 +1,3 @@
 - Agora_Energiewende_2025_Integrated_Planning.png: https://www.agora-energiewende.org/publications/designing-energy-infrastructure-for-a-climate-neutral-europe 
 - ETHOS_NESTOR.jpeg: https://doi.org/10.1016/j.adapen.2025.100217 
+- Model_structure_and_input_data_overview_REMIND_PyPSA-Eur.png: https://iopscience.iop.org/article/10.1088/2516-1083/ae3ffe 
