@@ -8,6 +8,7 @@
 - Ember: Global Electricity Review 2026, Apr 2026: https://ember-energy.org/latest-insights/global-electricity-review-2026/ 
 - IRENA: Renewable Power Generation Costs
 - IRENA: Renewable capacity statistics 2026, Mar 2026, https://www.irena.org/Publications/2026/Mar/Renewable-capacity-statistics-2026 
+- Energy Institute: Statistical Review of World Energy, 2026, https://www.energyinst.org/statistical-review 
 
 ### Solar PV
 
