@@ -13,15 +13,21 @@
 ### Solar PV
 
 - IEA-PVPS: Snapshot of Global PV Markets 2026, Apr 2026, https://iea-pvps.org/wp-content/uploads/2026/04/Snapshot-of-Global-PV-Markets-2026.pdf 
+- LBNL: U.S. Utility-Scale Solar, 2025 Data Update, https://emp.lbl.gov/publications/us-utility-scale-solar-2025-data
 
 ### Wind
 
 - GWEC: Global Wind Report 2026, Apr 2026, https://www.gwec.net/reports/globalwindreport 
 - GWEC: Global Offshore Wind Report 2026, Jun 2026, 
+- LBNL: Land-Based Wind Energy Technology Update: 2026 Edition, 2026, https://emp.lbl.gov/publications/land-based-wind-energy-technology-0
 
 ### Batteries
 
 - Volta Foundation: 2025 Annual Battery Report, Feb 2026, https://volta.foundation/battery-report-2025/ 
+
+### Hybrid Power Plants
+
+- LBNL: Hybrid Power Plants - Status of Operating and Proposed Plants, Data Update: 2026 Edition, September 2026, https://emp.lbl.gov/hybrid 
 
 ## Outlooks (Forward looking)
 
@@ -50,3 +56,4 @@
 - iha: world hydropower outlook
 - IEA: electricity 
 - IEA TCP programmes and their tasks
+- IEA: global hydrogen review
